@@ -1,6 +1,6 @@
 # Lab 6 Machine Learning as a Service
 
-Module A
+# Module A
 
 Create an iOS application using the HTTPSwiftExample that:
 
@@ -17,7 +17,7 @@ You should not need to update the server for any of the given functionality. How
 You have a lot of free reign in this assignment to create something interesting and unique. Try to make this one iteration of the final project. 
 
 
-Module B: 
+# Module B: 
 Update the HTTPExample and the tornado web server to:
 
 Specify the type of model to use in the Machine Learning via the iOS POST request(s)
