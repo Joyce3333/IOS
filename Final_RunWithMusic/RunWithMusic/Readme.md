@@ -1,26 +1,4 @@
-# Lab 1 Sink or Swim iOS Interface Building 
-You have free reign to create an application that manages some type of mutable information. That means that the data displayed by the app is expected to change. The data you load and display can come from anywhere and you can do whatever you want with it. For instance, you might display images from online somewhere, you might display stock exchange information, or you might display a information from twitter--or movies, or books, or amazon. It can be whatever information you want to display (really, have fun with it), as long as you use the interface elements as described below. You will need to get creative in order to incorporate ALL the design elements below. That is okay, some parts of the app will just be weird (but not all the app).
+# Final  
+Students will also be working on a longer final project that will culminate in a final demonstration. Students will receive guidance on the selection of a final project, but will mostly have creative free reign to develop and evaluate a mobile sensing application. The difficulty of the final project should be on par with about two lab assignments. You will be graded based on (1) the clarity of explanations of technical aspects of the application and (2) the criteria met by your original proposed specifications. 
 
-Create an iOS application in XCode that uses the storyboard and a TableViewController to load different views based on the data your are loading. The TableViewController must implement three different types of cells and load them dynamically (i.e., you cannot use a static table). View navigation can be hierarchical in any way you want--as long as it makes sense for the interface and the data you are displaying. When loading a new view controller your main view controller should hand off information to the controller that is getting created. The application should make use of the following design elements in one or more of the views:
-
-Required for 5000 and 7000 Students:
-
-Automatic Layout 
-Buttons, Sliders, and Labels
-Stepper and Switch
-Picker (you must implement picker delegate)
-Segmented Control
-Timer (which should repeat and somehow update the UIView)
-ScrollView (with scrollable, zoomable content)
-Image View
-Navigation Controller
-Collection View Controller
-Table View Controller with dynamic prototype cells
-The design should work in both portrait and landscape mode
-I should not be able to crash your app
-Your design must strictly adhere to Model View Controller programming practices
-Use lazy instantiation when possible
-Exceptional Credit for 5000 students and Required for 7000 students:
-
-Implement a modal view and handle properly using custom protocols/delegation
-Test your app running on the device, not the emulator to ensure it runs in all scenarios. Also see the grading rubric for how much each element is worth. 
+Create an iOS application that uses the techniques for programming we learned in class. The final project should incorporate at least one technique from three of the six labs assignments. The difficulty of the final project should be at least that of two lab assignments. Ideally, your final project will build upon lab six.  
