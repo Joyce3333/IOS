@@ -1,5 +1,5 @@
-Lab 5 Bluetooth Arduino Sensing
-Module A
+# Lab 5 Bluetooth Arduino Sensing
+# Module A
 Create an iOS application using the example template that:
 
 Reads from the microphone
@@ -11,7 +11,7 @@ An idea for Exceptional Credit: recognize two tones played on a piano (down to o
 Exceptional Credit Idea (required for 7000 level students): make the FFT analysis follow the model-view-controller framework more closely. That is, make the model an analyzer that is not implemented in the View Controller (i.e., an "analyzer model"). All audio saving and analysis should happen in the model only, not the view controller. The audio analysis should be performed using blocks on a serial queue. Once analysis is complete, a view controller can ask the model for FFT frames, and the view controller can display those frames however it wants. You should design functions for accessing the result of the analyzer such that memory and computation time are reasonable. 
 Verify the functionality of the application to the instructor during lab time or office hours (or scheduled via email). The sound source must be external to the phone (i.e., laptop, instrument, another phone, etc.).
 
-Module B
+# Module B
 Create an iOS application using the example template that:
 
 Reads from the microphone
